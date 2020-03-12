@@ -40,7 +40,7 @@ class _MyAppState extends State<MyApp> {
        'answer': ['Rabbit', 'Snake', 'Elephant', 'Lion'],
       },
       {'questionText': 'Who\'s your favorite instructor?',
-       'answer': ['Max', 'Max', 'Max', 'Max'],
+       'answer': ['Max', 'Max', 'Max', 'Texas'],
       },    
     ];
 
